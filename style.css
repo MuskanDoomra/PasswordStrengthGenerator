@@ -1,0 +1,30 @@
+.input-group {
+    width: 80%;
+    height: auto;
+    padding: 8px;
+}
+.container-fluid {
+    box-shadow: 5px 10px 35px gray;
+    border-radius: 10px;
+}
+.heading1 {
+    font-family: "Tangerine", serif;
+    font-size: 100px;
+    text-shadow: 2px 2px 5px gray;
+}
+.btn {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    border: 2px solid gray;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 10px 20px #85a3e0 inset;
+}
+.btn:hover {
+    background-color: #4775d1;
+    color: white;
+    box-shadow: 5px 10px 20px gray;
+}
+.form-control:focus {
+    box-shadow: 1px 1px 10px gray;
+}
